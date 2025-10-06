@@ -1,6 +1,6 @@
 # Presentació
 
-Soc l’Aleix, estudiant de grau mitjà en informàtica (SMX) a l'Escola Pia.
+Soc l’Aleix, estudiant de grau mitjà en informàtica (SMX) a l'Escola Pia.md .
 M'apassiona descobrir coses noves, provar amb projectes diferents i millorar dia a dia. Tinc un interès especial en:
 
 * Muntatge i configuració d’equips
