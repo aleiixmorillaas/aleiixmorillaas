@@ -12,4 +12,5 @@ M'apassiona descobrir coses noves, provar amb projectes diferents i millorar dia
 * Formar part de projectes reals que m’aportin experiència i coneixements
 
 **GitHub**
+
 Aquí aniré compartint les meves pràctiques, projectes propis, idees i proves. Tot allò que em permeti avançar i aportar a la comunitat.
