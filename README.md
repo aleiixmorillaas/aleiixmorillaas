@@ -52,6 +52,31 @@ M'agrada especialment entendre com funcionen els ordinadors, muntar equips i tro
 
 ---
 
+## ⚽🏀 Més enllà de la informàtica
+
+La tecnologia no és la meva única passió! També m'encanta l'esport, especialment el **futbol i el bàsquet**. M'agrada gaudir dels partits, seguir l'esport i tot el que transmet: treball en equip, esforç i superació.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚽ Futbol</h3>
+        <img src="https://media.tenor.com/search/mark-evans-inazuma-eleven-gifs" alt="Mark Evans d'Inazuma Eleven" width="280">
+        <p>Passió, intensitat i gols fins a l'últim minut!</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏀 Bàsquet</h3>
+        <p>🏀</p>
+        <p>Triple, defensa i esperit d'equip!</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
 ## 🚀 Què trobaràs al meu GitHub?
 
 Aquest espai és el meu petit laboratori tecnològic, on comparteixo el que aprenc, experimento amb idees i guardo els projectes que vaig desenvolupant.
