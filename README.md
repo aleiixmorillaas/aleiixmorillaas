@@ -24,9 +24,7 @@
 ---
 # 📊 Les meves estadístiques de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleiixmorillaas&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadístiques de GitHub" height="180">
-
-<img src="https://streak-stats.demolab.com?user=aleiixmorillaas&theme=tokyonight&hide_border=true&locale=es" alt="Ratxa d'activitat a GitHub" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=aleiixmorillaas&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadístiques de GitHub" height="180"> <img src="https://streak-stats.demolab.com?user=aleiixmorillaas&theme=tokyonight&hide_border=true&locale=es" alt="Ratxa d'activitat a GitHub" height="180">
 
 </div>
 
