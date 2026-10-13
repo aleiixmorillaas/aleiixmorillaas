@@ -52,7 +52,7 @@ M'agrada especialment entendre com funcionen els ordinadors, muntar equips i tro
 
 ---
 
-## ⚽🏀 Més enllà de la informàtica
+## 🏀 Més enllà de la informàtica ⚽
 
 La tecnologia no és la meva única passió! També m'encanta l'esport, especialment el **futbol i el bàsquet**. M'agrada gaudir dels partits, seguir l'esport i tot el que transmet: treball en equip, esforç i superació.
 
@@ -61,19 +61,23 @@ La tecnologia no és la meva única passió! També m'encanta l'esport, especial
     <tr>
       <td align="center" width="50%">
         <h3>⚽ Futbol</h3>
-        <img src="https://media.tenor.com/search/mark-evans-inazuma-eleven-gifs" alt="Mark Evans d'Inazuma Eleven" width="280">
         <p>Passió, intensitat i gols fins a l'últim minut!</p>
       </td>
       <td align="center" width="50%">
         <h3>🏀 Bàsquet</h3>
-        <p>🏀</p>
+        <p></p>
         <p>Triple, defensa i esperit d'equip!</p>
       </td>
     </tr>
   </table>
 </div>
 
----
+<div align="center">
+  <img src="https://media1.tenor.com/m/6_t31gR9dVwAAAAC/inazuma-eleven-inazuma-eleven-nl.gif"
+       alt="Mark Evans de Inazuma Eleven"
+       width="350">
+</div>
+
 
 ---
 
