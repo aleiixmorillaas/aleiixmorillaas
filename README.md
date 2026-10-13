@@ -17,6 +17,28 @@
 
 </div>
 
+<div align="center">
+
+<div align="center">
+
+---
+# 📊 Les meves estadístiques de GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=aleiixmorillaas&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadístiques de GitHub" height="180">
+
+<img src="https://streak-stats.demolab.com?user=aleiixmorillaas&theme=tokyonight&hide_border=true&locale=es" alt="Ratxa d'activitat a GitHub" height="180">
+
+</div>
+
+### 🛠️ Tecnologies
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+</div>
+
 ---
 
 ## 🧑‍💻 Sobre mi
@@ -107,9 +129,18 @@ Aquest espai és el meu petit laboratori tecnològic, on comparteixo el que apre
 
 ---
 
-## ⚡ La meva filosofia
 
-> No cal saber-ho tot per començar. Cal tenir ganes d'aprendre, atrevir-se a provar i no deixar de millorar.
+## 🧠 La filosofia del meu codi
+
+
+<div align="center">
+  <img src="./images/plato-platon.gif" alt="Platón" width="300">
+</div>
+
+> "Només sé que no sé res."*
+
+</div>
+
 
 <div align="center">
 
