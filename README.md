@@ -3,7 +3,11 @@
 
 # 👋 Hola! Soc l'Aleix Morillas
 
-### 💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4AF0C4&center=true&vCenter=true&width=600&lines=Estudiant+de+SMX+%F0%9F%92%BB;Amant+del+hardware+%F0%9F%96%A5%EF%B8%8F;Aprenent+alguna+cosa+nova+cada+dia+%F0%9F%9A%80" alt="Text animat">
+
+</div>
 
 <p>
   <img src="https://img.shields.io/badge/SMX-Informàtica-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="SMX">
@@ -141,10 +145,25 @@ Aquest espai és el meu petit laboratori tecnològic, on comparteixo el que apre
 
 <div align="center">
 
+
+
 ### 🔧 Aprendre · Experimentar · Millorar
 
-**Benvingut al meu perfil!** 👨‍💻
+</div>
 
-<sub>Construint el meu camí dins del món de la informàtica, un projecte cada vegada.</sub>
+
+<hr>
+
+<div align="center">
+
+### 🚩 Gràcies per visitar el meu perfil!
+
+<code>Estudiant d'SMX · Entrenant Hardware  · Sempre aprenent</code>
+
+<p>
+  <img src="https://img.shields.io/badge/Keep-Learning-4AF0C4?style=flat-square&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Never-Stop-7C6BFF?style=flat-square">
+</p>
 
 </div>
+
