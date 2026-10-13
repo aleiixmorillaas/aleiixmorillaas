@@ -134,7 +134,6 @@ Aquest espai és el meu petit laboratori tecnològic, on comparteixo el que apre
 
 
 <div align="center">
-  ![GifPlaton](plato-platon.gif)
 </div>
 
 > "Només sé que no sé res."
