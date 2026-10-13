@@ -134,10 +134,10 @@ Aquest espai és el meu petit laboratori tecnològic, on comparteixo el que apre
 
 
 <div align="center">
-  <img src="./images/plato-platon.gif" alt="Platón" width="300">
+  ![GifPlaton](plato-platon.gif)
 </div>
 
-> "Només sé que no sé res."*
+> "Només sé que no sé res."
 
 </div>
 
